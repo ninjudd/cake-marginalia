@@ -1,6 +1,6 @@
 # cake-marginalia
 
-[Cake](https://github.com/ninjudd/cake) plugin for [Marginalia](https://github.com/fogus/marginalia).
+[Cake](https://github.com/flatland/cake) plugin for [Marginalia](https://github.com/fogus/marginalia).
 
 ## Usage
 
