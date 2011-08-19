@@ -8,8 +8,8 @@
   (:use cake.core))
 
 (deftask marg
-  "Run marginalia against your project code.
-   Optionally, you can pass files or directories to control what documentation is generated and in what order."
+  "Run marginalia against your project code."
+  "Optionally, you can pass files or directories to control what documentation is generated and in what order."
   {files :marg}
   (bake
    (:use marginalia.core) [files files]
